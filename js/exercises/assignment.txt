@@ -1,0 +1,5 @@
+Using call/apply/bind, write a function that will return square root of a number
+  1. Use typeof/instanceof to verify the type of data being passed to the function
+  2. This function has to be enclosed from the outside scope
+  3. This function should work for the values - 0, 1, 3, 4, 9
+  4. Same number should be returned if there is no perfect square root found for the given number
